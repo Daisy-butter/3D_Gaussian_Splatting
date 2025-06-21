@@ -26,3 +26,4 @@ Official codebase:
 
 ---
 
+To set up the environment, instead of directly running environment.yaml, we recommend building up your own environment according to required packages and your CUDA version.
